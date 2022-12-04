@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F2ECBBD9-F05F-41F3-8E4B-8FB97C5858B7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstAPI/html/index.html">
+    <Files>
+      <File FileName="FirstAPI/Program.cs" Line="102" Column="6" />
+      <File FileName="FirstAPI/html/index.html" Line="102" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstAPI" expanded="True">
+            <Node name="FirstAPI" expanded="True">
+              <Node name="html" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
